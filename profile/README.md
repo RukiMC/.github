@@ -12,7 +12,7 @@
 
 **목표**
 * EssentialX의 주요 기능을 분리해서 가볍게 대체, 각 플러그인간 호환성 보장
-  * [X] MOTD : HelloMessage
+  * [X] MOTD : [HelloMessage](https://github.com/RukiMC/HelloMessage)
   * [ ] Spawn, TPA
   * [ ] AFK
 * [ ] `/msg`를 확장한 채팅 채널 분리 기능
