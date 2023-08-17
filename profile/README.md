@@ -23,3 +23,5 @@
 * 각 플러그인의 다국어 지원 (영어, 한국어)
 * 플러그인이 의존하는 라이브러리에의 기여
   * [Heartbeat Coroutines](https://github.com/monun/heartbeat-coroutines) by monun
+  * [Kommand](https://github.com/monun/kommand) by monun
+  * 일해라 각별 시전
